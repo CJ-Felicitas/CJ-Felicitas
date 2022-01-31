@@ -3,8 +3,13 @@
 ### About me
 
 I am a student at the University of Southeastern Philippines (USeP) studying Bachelor of Science in Information Technology major in Information Security
-
-- I'm currently learning Java, php, javascript, html and css. I'm looking forward to learn Web development.
-- You can reach me at Facebook: (https://www.facebook.com/Joyful.Burgerr/) twitter: (https://twitter.com/joyful_burgerr), instagram: (https://www.instagram.com/cej_felicitas/), discord: Joyful Burger#4416 
 - There's nothing much to see in here, most of my projects are in a closed source.
 
+### These are the languages that I'm practicing
+- php
+- Vanilla JS
+- Java
+- HTML 5
+- CSS3 (Actually I hate CSS3, I mostly use BS3 framework to make things easier)
+
+I'm looking forward to learn Web Development
