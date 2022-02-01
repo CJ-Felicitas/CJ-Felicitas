@@ -11,5 +11,8 @@ I am a student at the University of Southeastern Philippines (USeP) studying Bac
 - Java
 - HTML 5
 - BS3
+- SQL
 
-I'm looking forward to learn Web Development
+
+I'm looking forward to learn Web Development and I'm more interested working on backend.
+
