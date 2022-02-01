@@ -10,6 +10,6 @@ I am a student at the University of Southeastern Philippines (USeP) studying Bac
 - Vanilla JS
 - Java
 - HTML 5
-- CSS3 (Actually I hate CSS3, I mostly use BS3 framework to make things easier)
+- BS3
 
 I'm looking forward to learn Web Development
