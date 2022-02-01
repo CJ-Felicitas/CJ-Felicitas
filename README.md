@@ -5,7 +5,7 @@
 I am a student at the University of Southeastern Philippines (USeP) studying Bachelor of Science in Information Technology major in Information Security
 - There's nothing much to see in here, most of my projects are in a closed source.
 
-### These are the things that I'm practicing
+### I'm currently practicing
 - php
 - Vanilla JS
 - Java
