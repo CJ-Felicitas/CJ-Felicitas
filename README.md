@@ -14,6 +14,5 @@ I am a student at the University of Southeastern Philippines (USeP) studying Bac
 - SQL
 
 
-I'm looking forward to learn Web Development and I'm more interested working on backend.<br>
-And I'm not good at frontend
+I'm looking forward to learn Web Development.
 
