@@ -12,6 +12,7 @@ I am a student at the University of Southeastern Philippines (USeP) studying Bac
 - HTML 5
 - BS3
 - SQL
+- Laravel
 
 
 I'm looking forward to learn Web Development.
