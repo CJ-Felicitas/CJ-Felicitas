@@ -14,6 +14,7 @@ I am a student at the University of Southeastern Philippines (USeP) studying Bac
 - SQL
 - Laravel
 - ReactJS
+- AngularCLI
 
 
 I'm looking forward to learn Web Development.
