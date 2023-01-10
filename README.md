@@ -6,16 +6,15 @@ I am a student at the University of Southeastern Philippines (USeP) studying Bac
 - There's nothing much to see in here, most of my projects are in a closed source.
 
 ### I'm currently practicing
-- php
-- Vanilla JS
+- PHP
+- Javascript
 - Java
 - HTML 5
 - BS3
-- SQL
+- MySQL
 - Laravel
 - ReactJS
 - AngularCLI
 
-
-I'm looking forward to learn Web Development.
+I'm looking forward to learn more about Web Development.
 
