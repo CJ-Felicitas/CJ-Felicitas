@@ -21,7 +21,6 @@ I am a student at the University of Southeastern Philippines (USeP) studying Bac
 - Apache2
 - Hyperledger Fabric (Blockchain Framework)
 - GO
-- CouchDB
 - Git
 
 I'm not good at Node.js because I was trained using Laravel but I can work with JavaScript projects, I'm more interested in backend development since I'm not good at UI/UX design. As of this moment, I'm interested in working with projects that are related to distributed ledger technology (DLT) and Financial Technology (Fintech).
