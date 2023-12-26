@@ -8,7 +8,6 @@ I can also work with frontend frameworks such as Vue.js and React.js and my back
 
 - There's nothing much to see in here, most of my projects are in a closed sourcee
 
-I'm not good at Node.js because I was trained using Laravel but I can work with JavaScript projects, I'm more interested in backend development since I'm not good at UI/UX design. As of this moment, I'm interested in working with projects that are related to distributed ledger technology (DLT) and Financial Technology (Fintech).
-
+As of now, I'm very interested to learn more about server management as well as handling servers that are hosted in the cloud.
 
 
