@@ -1,4 +1,4 @@
-- Part Time Freelancer
+- Part Time Freelance Software Developer
 - Laravel
 - Node.js
 - ExpressJS
