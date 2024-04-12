@@ -8,5 +8,5 @@ I'm a Part-Time Freelance Software Developer. My work usually involves building 
 - **Vue.js**
 - **React Native CLI**
 - **ExpressJS**
-- 
+
 Hit me up on [LinkedIn](https://www.linkedin.com/in/cj-felicitas-851547203/) if you're into that sort of thing.
