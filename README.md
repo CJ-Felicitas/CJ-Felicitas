@@ -1,1 +1,1 @@
-I code for a living. (I'm a software engineer btw)
+I write codes and do computer stuffs for a living.
