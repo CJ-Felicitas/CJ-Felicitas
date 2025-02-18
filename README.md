@@ -1,2 +1,2 @@
-- Have taken a mental health break.
-- Probably gonna go farming for now.
+- Sorry, nothing much too see in here, most of my projects are in a closed source.
+- You can still reach out to me via LinkedIn if you'd like to work together with me on a project https://www.linkedin.com/in/cj-felicitas-851547203/
