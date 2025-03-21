@@ -1,1 +1,1 @@
-Took a break, Tried Touching Grass, Didn't like it, Realized I’m useless without my keyboard. 
+Took a break, tried touching grass, didn't like it, I realized I’m useless without my keyboard. 
