@@ -1,1 +1,1 @@
-software engineer with a little bit of devops
+not active anymore in software engineering, I work as devops now.
