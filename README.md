@@ -1,1 +1,1 @@
-not active anymore in software engineering, I work as devops now.
+get in touch with me and lemme see what I can do for you 👍👍
