@@ -1,1 +1,1 @@
-not active anymore in software engineering anymore, I do devops now.
+not active in software engineering anymore, I do devops now.
